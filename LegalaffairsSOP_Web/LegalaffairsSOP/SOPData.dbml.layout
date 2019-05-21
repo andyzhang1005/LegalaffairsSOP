@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="SOPData">
+  <DataContextMoniker Name="/SOPDataDataContext" />
+  <nestedChildShapes>
+    <classShape Id="b502dcaf-05b8-430c-a68c-3cb8d9f97a82" absoluteBounds="0.5, 1.125, 2, 2.0916874186197916">
+      <DataClassMoniker Name="/SOPDataDataContext/tdsopdata" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3db9cabc-e557-4c7e-b49f-a0693bc130ad" absoluteBounds="0.51500000000000012, 1.585, 1.9700000000000002, 1.5316874186197915" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2e4a48c4-7614-4666-83a5-ad89fbe7eaf3" absoluteBounds="3, 1.125, 2, 2.0916874186197916">
+      <DataClassMoniker Name="/SOPDataDataContext/tdsopdata_temp" />
+      <nestedChildShapes>
+        <elementListCompartment Id="60820e8a-eaff-4c13-8433-0164e6bdcc68" absoluteBounds="3.015, 1.585, 1.9700000000000002, 1.5316874186197915" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="b4ed02fa-263c-4a8c-92a2-462f2feefdd5" absoluteBounds="5.375, 1.125, 2, 3.0156579589843751">
+      <DataClassMoniker Name="/SOPDataDataContext/tccaseInstructiondata" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fccd4987-8db1-44be-8272-b238689c4cfb" absoluteBounds="5.39, 1.585, 1.9700000000000002, 2.455657958984375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
